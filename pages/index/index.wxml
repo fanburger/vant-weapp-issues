@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container" style="background-color: black;">
+  <van-tabs active="{{ active }}" color="#008BF5">
+    <van-tab title="测试文字" info="333"></van-tab>
+  </van-tabs>
+</view>
